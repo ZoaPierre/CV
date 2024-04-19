@@ -12,14 +12,14 @@ main {
     display: flex;
     justify-content: space-between;
     margin-top: 25px;
-    background-color: white;
+    background-color: rgb(109, 109, 109);
     width: 100%;
 }
 header {
     height: 160px;
     padding-top: 10px;
-    color: white;
-    background-color: #333;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
 }
 
 .photo {
